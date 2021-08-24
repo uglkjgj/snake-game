@@ -112,9 +112,5 @@ def game():
     pygame.display.update()
     time.sleep(3)
 
-# TODO: 1. Make snake body that can follow the head
-# TODO: 2. The head able to collide with the body to end the game
-# TODO: 3. Add a home menu and an instructions page
-
 if __name__ == '__main__':
     game()
